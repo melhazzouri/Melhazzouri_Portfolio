@@ -52,4 +52,13 @@ Neural machine translation (NMT) is a machine translation approach that involves
 ![image](https://user-images.githubusercontent.com/39967400/226725313-32fa2b2f-404e-4288-a370-4b895fe75b6a.png)
 
 
+# Project 8: Arabic Font Classification 
+In recent times, the identification of Arabic fonts has become increasingly significant, primarily because of its wide-ranging applications in various fields. The primary focus of this study centers around the recognition aspect of Arabic fonts, which poses significant challenges, notably the vast diversity present within the fonts utilized in the Arabic language.  A Convolutional neural network (CNN) was built to classify between Arabic fonts with 95% accuracy. 
+
+#### Keys: Image Classification - CNN
+![image](https://user-images.githubusercontent.com/39967400/226725660-7c64d0f9-4645-46fd-8a98-d923207e93e9.png)
+
+
+
+
 

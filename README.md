@@ -59,6 +59,13 @@ In recent times, the identification of Arabic fonts has become increasingly sign
 ![image](https://user-images.githubusercontent.com/39967400/226725660-7c64d0f9-4645-46fd-8a98-d923207e93e9.png)
 
 
+# Project 8: CNN Image Classification for Bird's Species
+In this project, we developed a deep learning convolutional neural network (CNN) classifier of bird species using Python 3, Keras, and Tensorflow. The model has been trained while different hyperparameters are tuned for best accuracy in predicting the bird species.
+
+#### Keys: Image Classification - CNN
+![image](https://user-images.githubusercontent.com/39967400/226726029-fbd5b425-7429-4dab-ad05-625e8552c09a.png)
+
+
 
 
 

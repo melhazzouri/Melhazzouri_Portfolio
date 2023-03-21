@@ -79,6 +79,18 @@ There are various methods for measuring the churn rate, including the number of 
 #### Keys:   Logistic Classifier - Support Vector Classifier - Decision Tree Classifier- K-nearest Classifier - Random Forest Classifier - ANN
 ![image](https://user-images.githubusercontent.com/39967400/226726782-1397f292-a35a-4459-96e6-2eede65d3b67.png)
 
+# Project 12:  Regression Discontinuity Design - COVID
+The goal of this project is to use RDD to estimate the effects of lockdowns and reopenings on the number of daily Covid cases. 
+1. Extracted all the indices that contained the relevant dates needed.
+2. Assigned date as our independent variable (x) and daily cases as our dependent variable (y).
+3. Plotted the data in a scatter plot.
+4. Assigned a cutoff predictor.
+5. Added a new column named "day" as cardinal numbers to make it easier to plot and perform a regression on.
+6. Transformed the data and performed a Regression Discontinuity.
+7. Plotted the Final Regression Discontinuity Model.
 
+#### Keys: RDD
+
+![image](https://user-images.githubusercontent.com/39967400/226727603-49bd8ab8-ee22-4c3a-9582-d386cda17aca.png)
 
 

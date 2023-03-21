@@ -15,7 +15,7 @@ Despite the language's global popularity as the "language of love," it remains c
 #### Keys: NLP - NMt - RNN
 ![image](https://user-images.githubusercontent.com/39967400/226723042-9711606c-38b4-4691-a1d4-d22c1aa7971e.png)
 
-# Project 4: Sentiment Analysis Using LSTM
+# Project 3: Sentiment Analysis Using LSTM
 RNNs have been applied with success to many kinds of natural language processing projects in the past few years. Those applications include speech recognition, language modeling, translation, and, of course, sentiment analysis. None of this would be possible without a special kind of RNN, and that is the LSTM (Long short-term memory). For many purposes, LSTMs work better than traditional recurrent networks.LSTM models are widely used nowadays, as they are particularly designed to have a long-term “memory” that is capable of understanding the overall context better than other neural networks affected by the long-term dependency problem. In this project, LSTM was used to carry out sentiment analysis over a set of Amazon reviews. 
 
 #### Keys:  NLP Sentiment Analysis  - LSTM
@@ -59,12 +59,25 @@ In recent times, the identification of Arabic fonts has become increasingly sign
 ![image](https://user-images.githubusercontent.com/39967400/226725660-7c64d0f9-4645-46fd-8a98-d923207e93e9.png)
 
 
-# Project 8: CNN Image Classification for Bird's Species
+# Project 9: CNN Image Classification for Bird's Species
 In this project, we developed a deep learning convolutional neural network (CNN) classifier of bird species using Python 3, Keras, and Tensorflow. The model has been trained while different hyperparameters are tuned for best accuracy in predicting the bird species.
 
 #### Keys: Image Classification - CNN
 ![image](https://user-images.githubusercontent.com/39967400/226726029-fbd5b425-7429-4dab-ad05-625e8552c09a.png)
 
+
+# Project 10: Health Insurance Cost Estimation
+Health insurance can get pricey. Understanding what helps determine your health insurance costs can help you save money, although not everything an insurance company considers is necessarily something you can control. This is an analysis of which factors determine the health insurance cost using Machine Learning. Four different models were developed for the health insurance cost estimation: Linear Regression, Decision Tree Regressor, Support Vector Regressor, and Random Forest Regressor. The model with the highest accuracy for health insurance cost estimation was deployed using Flask
+
+#### Keys: Linear Regression - Decision Tree Regressor - Support Vector Regressor -  Random Forest Regressor - Flask
+
+![image](https://user-images.githubusercontent.com/39967400/226726502-3b8f8ffd-9fa4-46b4-8755-8374c85aceba.png)
+
+# Project 11: Customer’s Churn Predictions
+There are various methods for measuring the churn rate, including the number of customers lost, the percentage of customers lost in comparison to the company's total customer base, the value of recurring business lost, or the percentage of recurring value lost. However, in this particular dataset, it is defined as a binary variable for each customer, and determining the rate is not the focus. The idea of the churn rate implies that there are factors that affect it, so the objective is to identify and quantify those factors. In this project, several machine learning models were tested: Logistic Classifier, Support Vector Classifier, Decision Tree Classifier, K-nearest Classifier and Random Forest Classifier as well as an Artificial Neural Network (ANN). Performance of all the models were compared. Logistic Regression resulted in the best performance of 81% accuracy
+
+#### Keys:   Logistic Classifier - Support Vector Classifier - Decision Tree Classifier- K-nearest Classifier - Random Forest Classifier - ANN
+![image](https://user-images.githubusercontent.com/39967400/226726782-1397f292-a35a-4459-96e6-2eede65d3b67.png)
 
 
 

@@ -35,3 +35,21 @@ Amazon is the largest E-commerce platform in the world. And, customer reviews ar
 
 #### Keys: NLP - Clustering 
 ![image](https://user-images.githubusercontent.com/39967400/226723451-3585df8f-de86-4690-a435-e142e090bd4b.png)
+
+# Project 6: Arabic Text Classification Using Deep Learning
+Despite the significant progress made in Natural Language Processing, the majority of research endeavors have concentrated solely on the English language, while other languages remain relatively unexplored. Arabic, in particular, presents an imposing linguistic challenge due to its intricate grammar, vast lexicon, and diverse writing styles.Against this backdrop, this project is dedicated to the classification of Arabic text through the application of deep learning methodologies. Assembled as a comprehensive learning process, this project strives to comprehend the utilization of deep learning for text classification in ArabicThe model built yielded 75% accuracy. For future work, I plan to use pre-trained models as well as compare CNN and RNN for Arabic text classification.
+
+#### Keys: NLP Text Classification - CNN
+
+![image](https://user-images.githubusercontent.com/39967400/226724850-27a97801-9c93-4d19-bde8-4d5bf484232a.png)
+
+# Project 7: NMT - Arabic to English Translation
+
+Machine translation is a specialized area within computational linguistics that is dedicated to the automated conversion of text in one language to another language. In this process, the input text is already composed of symbols from a particular language, and the machine translation program must convert these symbols into symbols that correspond to another language.
+Neural machine translation (NMT) is a machine translation approach that involves using an artificial neural network to predict the probability of a sequence of words. This method typically employs a single integrated model to generate translations of entire sentences. Due to the capabilities of neural networks, NMT has become the most powerful algorithm for machine translation. This cutting-edge algorithm utilizes deep learning techniques, where large datasets of translated sentences are utilized to train a model that can effectively translate between any two languages.To date, limited research has been conducted in the area of Arabic language processing. Here, a Recurrent Neural network (RNN) was built to to translate Arabic text into English using Keras. 
+
+#### Keys: NLP - NMT - RNN
+![image](https://user-images.githubusercontent.com/39967400/226725313-32fa2b2f-404e-4288-a370-4b895fe75b6a.png)
+
+
+

@@ -15,7 +15,7 @@ Despite the language's global popularity as the "language of love," it remains c
 #### Keys: NLP - NMT - RNN
 ![image](https://user-images.githubusercontent.com/39967400/226723042-9711606c-38b4-4691-a1d4-d22c1aa7971e.png)
 
-# [Project 3: Sentiment Analysis Using LSTM:Project Overview](https://github.com/melhazzouri/LSTM-Amazon-Reviews)
+# [Project 3: Sentiment Analysis Using LSTM: Project Overview](https://github.com/melhazzouri/LSTM-Amazon-Reviews)
 RNNs have been applied with success to many kinds of natural language processing projects in the past few years. Those applications include speech recognition, language modeling, translation, and, of course, sentiment analysis. None of this would be possible without a special kind of RNN, and that is the LSTM (Long short-term memory). For many purposes, LSTMs work better than traditional recurrent networks.LSTM models are widely used nowadays, as they are particularly designed to have a long-term “memory” that is capable of understanding the overall context better than other neural networks affected by the long-term dependency problem. In this project, LSTM was used to carry out sentiment analysis over a set of Amazon reviews. 
 
 #### Keys:  NLP Sentiment Analysis  - LSTM
@@ -36,7 +36,7 @@ Amazon is the largest E-commerce platform in the world. And, customer reviews ar
 #### Keys: NLP - Clustering 
 ![image](https://user-images.githubusercontent.com/39967400/226723451-3585df8f-de86-4690-a435-e142e090bd4b.png)
 
-# [Project 6: Arabic Text Classification Using Deep Learning:Project Overview](https://github.com/melhazzouri/Arabic-Text-Classification)
+# [Project 6: Arabic Text Classification Using Deep Learning: Project Overview](https://github.com/melhazzouri/Arabic-Text-Classification)
 Despite the significant progress made in Natural Language Processing, the majority of research endeavors have concentrated solely on the English language, while other languages remain relatively unexplored. Arabic, in particular, presents an imposing linguistic challenge due to its intricate grammar, vast lexicon, and diverse writing styles.Against this backdrop, this project is dedicated to the classification of Arabic text through the application of deep learning methodologies. Assembled as a comprehensive learning process, this project strives to comprehend the utilization of deep learning for text classification in ArabicThe model built yielded 75% accuracy. For future work, I plan to use pre-trained models as well as compare CNN and RNN for Arabic text classification.
 
 #### Keys: NLP Text Classification - CNN
@@ -52,34 +52,34 @@ Neural machine translation (NMT) is a machine translation approach that involves
 ![image](https://user-images.githubusercontent.com/39967400/226725313-32fa2b2f-404e-4288-a370-4b895fe75b6a.png)
 
 
-# [Project 8: Arabic Font Classification:Project Overview](https://github.com/melhazzouri/Arabic-Font-Classification)
+# [Project 8: Arabic Font Classification: Project Overview](https://github.com/melhazzouri/Arabic-Font-Classification)
 In recent times, the identification of Arabic fonts has become increasingly significant, primarily because of its wide-ranging applications in various fields. The primary focus of this study centers around the recognition aspect of Arabic fonts, which poses significant challenges, notably the vast diversity present within the fonts utilized in the Arabic language.  A Convolutional neural network (CNN) was built to classify between Arabic fonts with 95% accuracy. 
 
 #### Keys: Image Classification - CNN
 ![image](https://user-images.githubusercontent.com/39967400/226725660-7c64d0f9-4645-46fd-8a98-d923207e93e9.png)
 
 
-# [Project 9: CNN Image Classification for Bird's Species:Project Overview](https://github.com/melhazzouri/Deep-Learning-CNN-Bird-Classifier)
+# [Project 9: CNN Image Classification for Bird's Species: Project Overview](https://github.com/melhazzouri/Deep-Learning-CNN-Bird-Classifier)
 In this project, we developed a deep learning convolutional neural network (CNN) classifier of bird species using Python 3, Keras, and Tensorflow. The model has been trained while different hyperparameters are tuned for best accuracy in predicting the bird species.
 
 #### Keys: Image Classification - CNN
 ![image](https://user-images.githubusercontent.com/39967400/226726029-fbd5b425-7429-4dab-ad05-625e8552c09a.png)
 
 
-# [Project 10: Health Insurance Cost Estimation:Project Overview](https://github.com/melhazzouri/Health-Insurance-Estimator)
+# [Project 10: Health Insurance Cost Estimation: Project Overview](https://github.com/melhazzouri/Health-Insurance-Estimator)
 Health insurance can get pricey. Understanding what helps determine your health insurance costs can help you save money, although not everything an insurance company considers is necessarily something you can control. This is an analysis of which factors determine the health insurance cost using Machine Learning. Four different models were developed for the health insurance cost estimation: Linear Regression, Decision Tree Regressor, Support Vector Regressor, and Random Forest Regressor. The model with the highest accuracy for health insurance cost estimation was deployed using Flask
 
 #### Keys: Linear Regression - Decision Tree Regressor - Support Vector Regressor -  Random Forest Regressor - Flask
 
 ![image](https://user-images.githubusercontent.com/39967400/226726502-3b8f8ffd-9fa4-46b4-8755-8374c85aceba.png)
 
-# [Project 11: Customer’s Churn Predictions:Project Overview](https://github.com/melhazzouri/Churn_Analysis)
+# [Project 11: Customer’s Churn Predictions: Project Overview](https://github.com/melhazzouri/Churn_Analysis)
 There are various methods for measuring the churn rate, including the number of customers lost, the percentage of customers lost in comparison to the company's total customer base, the value of recurring business lost, or the percentage of recurring value lost. However, in this particular dataset, it is defined as a binary variable for each customer, and determining the rate is not the focus. The idea of the churn rate implies that there are factors that affect it, so the objective is to identify and quantify those factors. In this project, several machine learning models were tested: Logistic Classifier, Support Vector Classifier, Decision Tree Classifier, K-nearest Classifier and Random Forest Classifier as well as an Artificial Neural Network (ANN). Performance of all the models were compared. Logistic Regression resulted in the best performance of 81% accuracy
 
 #### Keys:   Logistic Classifier - Support Vector Classifier - Decision Tree Classifier- K-nearest Classifier - Random Forest Classifier - ANN
 ![image](https://user-images.githubusercontent.com/39967400/226726782-1397f292-a35a-4459-96e6-2eede65d3b67.png)
 
-# [Project 12:  Regression Discontinuity Design - COVID:Project Overview](https://github.com/melhazzouri/Regression-Discontinuity-Design-)
+# [Project 12:  Regression Discontinuity Design - COVID: Project Overview](https://github.com/melhazzouri/Regression-Discontinuity-Design-)
 The goal of this project is to use RDD to estimate the effects of lockdowns and reopenings on the number of daily Covid cases. 
 1. Extracted all the indices that contained the relevant dates needed.
 2. Assigned date as our independent variable (x) and daily cases as our dependent variable (y).

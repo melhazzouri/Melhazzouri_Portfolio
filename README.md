@@ -1,5 +1,5 @@
 # Mahmoud El Hazzouri Portfolio
-Data Science Portfolio
+Machine Learning Portfolio
 
 # [Project 1: Chatbot: Development and Deployment: Project Overview](https://github.com/melhazzouri/Deep-Learning-Chatbot---DoorDash-Customer-Support)
 In recent years, the surge in popularity of chatbots has transformed the landscape of technology and business. These intelligent conversational agents have mastered the art of mimicking human language, prompting widespread adoption across various industries. From e-commerce giants to healthcare providers, organizations are harnessing the power of chatbots to enhance customer interactions and drive business growth.

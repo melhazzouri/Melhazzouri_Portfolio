@@ -18,12 +18,12 @@ This project focuses on the development and deployment of a Customer Support Cha
 
 ![image](https://user-images.githubusercontent.com/39967400/226724309-1fc3bfb6-b5e9-44dc-bd53-8912f9b33112.png)
 
-#### Keys:  NLP Sentiment Analysis  - LSTM
+#### Keys:  NLP - LSTM
 
 # [Project 4: Logistic Regression, Decision Tree, KNN, SVC, and Naive Bayes for Amazon Reviews Sentiment Analysis: Project Overview](https://github.com/melhazzouri/Amazon-Reviews-Sentiment)
 
 ![image](https://user-images.githubusercontent.com/39967400/226724026-c36e7f0b-c412-421e-9e4b-72763bd7119e.png)
-#### Keys: NLP Sentiment Analysis - Logistic Regression - Decision Tree- K-Nearest Neighbors Algorithm (KNN)- Support Vector Classifier (SVC)- Naive Bayes. 
+#### Keys: NLP - Logistic Regression - Decision Tree- K-Nearest Neighbors Algorithm (KNN)- Support Vector Classifier (SVC)- Naive Bayes. 
 
 
 
@@ -31,13 +31,13 @@ This project focuses on the development and deployment of a Customer Support Cha
 # [Project 5: K-Means Clustering of Amazon Reviews: Project Overview](https://github.com/melhazzouri/NLP---Amazon-Reviews)
 
 ![image](https://user-images.githubusercontent.com/39967400/226723451-3585df8f-de86-4690-a435-e142e090bd4b.png)
-#### Keys: NLP - Clustering 
+#### Keys: NLP - K-Means Clustering 
 
 
 # [Project 6: LSTM and CNN Models for Arabic Text Classification: Project Overview](https://github.com/melhazzouri/Arabic-Text-Classification)
 
 ![image](https://user-images.githubusercontent.com/39967400/226724850-27a97801-9c93-4d19-bde8-4d5bf484232a.png)
-#### Keys: NLP Text Classification - CNN
+#### Keys: NLP - CNN
 
 
 # [Project 7: Arabic-to-English NMT Using Recurrent Neural Networks (RNN) and Keras: Project Overview](https://github.com/melhazzouri/NMT-Arabic-To-English)

@@ -1,15 +1,14 @@
 # Mahmoud El Hazzouri Portfolio
 Data Science Portfolio
 
-# [Project 1: Chatbot: Development and Deployment](https://github.com/melhazzouri/Deep-Learning-Chatbot---DoorDash-Customer-Support)
+# [Project 1: Chatbot: Development and Deployment: Project Overview](https://github.com/melhazzouri/Deep-Learning-Chatbot---DoorDash-Customer-Support)
 In recent years, the surge in popularity of chatbots has transformed the landscape of technology and business. These intelligent conversational agents have mastered the art of mimicking human language, prompting widespread adoption across various industries. From e-commerce giants to healthcare providers, organizations are harnessing the power of chatbots to enhance customer interactions and drive business growth.
 
 This project focuses on the development and deployment of a Customer Support Chatbot. Leveraging advanced Artificial Intelligence techniques, the chatbot was trained using Deep Learning algorithms and deployed using Flask
 
-# [Project 2: French To English Translation: Project Overview](https://github.com/melhazzouri/French-To-English-NMT)
-Within the European Union, French holds the distinction of being the fourth most widely spoken mother tongue, and depending on who you ask, it may even be the second most prevalent.A staggering 80 million individuals worldwide claim French as their first language, with 61 million of them residing in France. French-speaking communities can be found dispersed throughout various regions of the world.
+#### Keys: NLP - RNN - Flask
 
-Despite the language's global popularity as the "language of love," it remains challenging for many individuals to acquire French fluency. This is a hurdle that I, too, have encountered, having recently relocated to Montreal, Quebec.  I am using this project to build a Neural Machine Translation model to translate from French to English. 
+# [Project 2: French-to-English Neural Machine Translation: Project Overview](https://github.com/melhazzouri/French-To-English-NMT)
 
 #### Keys: NLP - NMT - RNN
 ![image](https://user-images.githubusercontent.com/39967400/226723042-9711606c-38b4-4691-a1d4-d22c1aa7971e.png)

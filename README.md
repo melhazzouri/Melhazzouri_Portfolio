@@ -1,6 +1,12 @@
 # Mahmoud El Hazzouri Portfolio
 Machine Learning Portfolio
 
+# [GPT WebApp with Falcon-40B Instruct and Gradio](https://github.com/melhazzouri/GPT-WebApp)
+
+# [Fine-tune Falcon-7B With QLoRA](https://github.com/melhazzouri/QLoRA-to-Fine-Tune-Falcon-7B-Instruct)
+
+# [Falcon-7B with LangChain](https://github.com/melhazzouri/FALCON-with-LangChain-)
+
 # [Chatbot: Development and Deployment: Project Overview](https://github.com/melhazzouri/Deep-Learning-Chatbot---DoorDash-Customer-Support)
 In recent years, the surge in popularity of chatbots has transformed the landscape of technology and business. These intelligent conversational agents have mastered the art of mimicking human language, prompting widespread adoption across various industries. From e-commerce giants to healthcare providers, organizations are harnessing the power of chatbots to enhance customer interactions and drive business growth.
 
@@ -77,3 +83,4 @@ This project focuses on the development and deployment of a Customer Support Cha
 
 #### Keys: RDD
 
+# [Aya-101 with LangChain](https://github.com/melhazzouri/Aya-LLM-with-LangChain)
